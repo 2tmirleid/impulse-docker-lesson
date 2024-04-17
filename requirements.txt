@@ -1,0 +1,7 @@
+pg
+typeorm
+@nestjs/config
+sequelize
+sequelize-typescript
+@types/sequelize
+@nestjs/sequelize
